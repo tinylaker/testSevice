@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestService</string>
+    <string name="alarm_service_label">Sample Alarm Service</string>
+    <string name="alarm_service_started">The alarm service has started running</string>
+    <string name="alarm_service_finished">The alarm service has finished running</string>
+
+    <string name="repeating_unscheduled">Repeating alarm has been unscheduled</string>
+</resources>
